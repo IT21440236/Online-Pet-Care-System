@@ -17,6 +17,6 @@ Web Application to cater the services required by pets and their owners.
 
 2)JS
 
-3) HTML, CSS
+3)HTML, CSS
 
 4)MySQL
